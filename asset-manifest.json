@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hasspace-task/static/css/main.46563a37.css",
+    "main.js": "/Hasspace-task/static/js/main.f5c34038.js",
+    "static/js/787.a5a00b74.chunk.js": "/Hasspace-task/static/js/787.a5a00b74.chunk.js",
+    "index.html": "/Hasspace-task/index.html",
+    "main.46563a37.css.map": "/Hasspace-task/static/css/main.46563a37.css.map",
+    "main.f5c34038.js.map": "/Hasspace-task/static/js/main.f5c34038.js.map",
+    "787.a5a00b74.chunk.js.map": "/Hasspace-task/static/js/787.a5a00b74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46563a37.css",
+    "static/js/main.f5c34038.js"
+  ]
+}
