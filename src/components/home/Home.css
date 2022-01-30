@@ -1,0 +1,10 @@
+.container{
+    padding: 20px;
+}
+.cards-container{
+    display: flex;
+    justify-content: start;
+    flex-direction:row-reverse;
+    flex-wrap: wrap;
+    gap:20px;
+}
